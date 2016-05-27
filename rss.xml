@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Breaking The Get Fit Myth]]></title>
+        <description><![CDATA[Breaking The Get Fit Myth]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 27 May 2016 05:10:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Understanding Nutrition ]]></title>
+            <description><![CDATA[<p>Have you ever done a diet before? Have great success in those first weeks? Probably. Did it last? Probably not. Why? Because current diet fads are all set up for short term results and not set for longevity. Our society and culture have bent our perception of instant gratification and just telling us, if the scale is showing lower numbers we're healthy. NOT TRUE. The key to attaining true health and fitness is by truly understanding the best ways for optimizing our bodies functions with nutrition and exercise.</p>]]></description>
+            <link>undefinedunderstanding-nutrition/index.html</link>
+            <guid isPermaLink="false">b08665ca-53e3-4bb6-bacb-622031dbe7b4</guid>
+            <pubDate>Fri, 27 May 2016 05:10:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
