@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "First off lets understand what muscle is made of. The key component is Protein. The building blocks of that broken down to your muscle consist of Branch Chained Amino Acids (BCAA's for short) which are leucine, isoleucine and valine. "
-datePublished: '2016-05-27T17:18:35.917Z'
-dateModified: '2016-05-27T16:36:29.821Z'
+datePublished: '2016-05-27T17:36:48.707Z'
+dateModified: '2016-05-27T17:32:59.568Z'
 title: ''
 author: []
 authors: []
@@ -29,4 +29,4 @@ Your body is programmed to address this issue first when you walk out of the gym
 
 Whey protein is the industry standard for post workout, but what a majority of the companies do is process these key protein components at very high temperatures. Which actually takes away from the full potential of these proteins. To use a simple analogy think about grilling a piece of chicken on the grill. If you cook it with too high of heat what happens? You burn and char it. Now is there some protein left in there to digest? Sure, but nowhere to the degree or quality of what it could have if cooked at the right temperature. You want low temperature processed hydrolyzed whey protein. Hydrolyzed is just where the protein is broken down smaller making it easy to mix without leaving chunks of grit and allowing for faster breakdown in the body. 1st Phorm has the top of the line whey protein on the market designed specifically for this reason. 
 
-But how we really grow the muscle is by actually using it! The muscle doesn't grow unless it's literally being torn apart, that's that soreness and swollen feeling you feel at and after the gym. We can help activate these muscles by using our body weight (yoga)
+Also having a protein shake before bed can really help your recovery as well as promoting lean muscle growth. Especially if you are doing very high intense training. Casein protein or even better taking a product of higher quality such as Level-1 gives you a sustained release which mimics the protein assimilation rates of whole food. This ensures that your body while it is asleep is still getting nutrients to you need and not throwing on any unnecessary weight (fat storage). You may have heard or known of someone who used to eat pb&j sandwiches before bed or just down peanut butter to help them put on mass studies have shown that adapting this
