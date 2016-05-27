@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Breaking The Get Fit Myth]]></title>
         <description><![CDATA[Breaking The Get Fit Myth]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/breaking-the-get-fit-myth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 05:10:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 27 May 2016 05:57:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/breaking-the-get-fit-myth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Understanding How We Really Lose Fat]]></title>
+            <description><![CDATA[<p>We don't just want to lose weight. We all have this misconception that as long as the scale is subtracting numbers we're doing good. Shows like The Biggest Loser are notorious for shoving this in people's faces. Which oddly enough scandals are slowly slipping out about their terrible behind the scenes practices. With trainers having them go beyond the health boundaries into unsafe weight loss practices from popping pills, telling them to starve themselves, over working their bodies, throwing up etc. This is not ok. We need to bust this weight loss myth once and for all.</p>]]></description>
+            <link>https://thegrid.ai/breaking-the-get-fit-myth/understanding-how-we-really-lose-fat/index.html</link>
+            <guid isPermaLink="false">4f1785bf-d4ac-419f-b170-252423ecb575</guid>
+            <pubDate>Fri, 27 May 2016 05:57:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Understanding Nutrition ]]></title>
             <description><![CDATA[<p>Have you ever done a diet before? Have great success in those first weeks? Probably. Did it last? Probably not. Why? Because current diet fads are all set up for short term results and not set for longevity. Our society and culture have bent our perception of instant gratification and just telling us, if the scale is showing lower numbers we're healthy. NOT TRUE. The key to attaining true health and fitness is by truly understanding the best ways for optimizing our bodies functions with nutrition and exercise.</p>]]></description>
-            <link>undefinedunderstanding-nutrition/index.html</link>
+            <link>https://thegrid.ai/breaking-the-get-fit-myth/understanding-nutrition/index.html</link>
             <guid isPermaLink="false">b08665ca-53e3-4bb6-bacb-622031dbe7b4</guid>
             <pubDate>Fri, 27 May 2016 05:10:22 GMT</pubDate>
         </item>
